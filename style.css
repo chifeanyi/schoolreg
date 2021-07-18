@@ -17,6 +17,8 @@ body {
   color: #013a63;
   background-image: url("screensa.png");
   background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 .Schoolname {
