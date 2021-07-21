@@ -1,4 +1,5 @@
-alert("Hello! Welcome to the official page of Ifeanyi Chukwujeme University");
+var myname = prompt ("What is your name : ");
+alert("Hello! " + myname + " Welcome to the official page of Ifeanyi Chukwujeme University");
 
 function validateForm() {
   var x = document.forms["myForm"]["password1"].value;
